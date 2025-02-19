@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Awesome Clean Code Projects Across Languages and Frameworks</title>
-</head>
-<body>
     <h1>Awesome Clean Code Projects Across Languages and Frameworks</h1>
+
     <p>Explore a curated list of awesome clean code projects across various programming languages and frameworks. Perfect for developers looking to improve code quality and best practices.</p>
 
     <h2>1. JavaScript</h2>
@@ -150,6 +143,3 @@
         <li><a href="https://github.com/gonzalonm/xamarin-forms-clean">Xamarin.Forms Clean Architecture</a> - A Xamarin.Forms sample app implementing clean architecture principles.</li>
         <li><a href="https://github.com/ChasakisD/Xamarin.Forms-CleanArchitecture">Xamarin.Forms Boilerplate with Clean Architecture</a> - A Xamarin.Forms project with Clean Architecture using Rx.NET and MVVM.</li>
     </ul>
-
-</body>
-</html>
